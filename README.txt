@@ -8,4 +8,6 @@ Open a command prompt or terminal and change the directory to the jar file you d
 
 Enter this into the command line and press enter: java -jar Keyboard_Autocompleter.jar
 
+From there, you will have instructions on how to use it.
+
 Thank you for using my application :D
