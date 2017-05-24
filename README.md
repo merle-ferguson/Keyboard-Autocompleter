@@ -6,16 +6,16 @@ This application is used to capture keyboard input and offer suggestions on how 
 
 I used Eclipse, but you could easily use the command line by following the instructions below. Make sure that you have an updated version of the JDK (Java Development Kit) on your machine.
 
-Open your command line and navigate to my project's directory, which contains the bin and src directories and the manifest.txt file.
+Open your command line and navigate to my project's src directory, which contains the java files and manifest file.
 
 If you are running windows, type PATH=C:\Program Files\Java\[jdk version]\bin.
 Fill in [jdk version] with your Java Development Kit version.
 
 All operating systems run the following:
 
-javac -d bin src/*.java
+javac *.java
 
-jar cvfm Keyboard_Autocompleter.jar manifest.txt bin/*.class
+jar cfm Keyboard_Autocompleter.jar manifest.txt *.class
 
 ## To run it:
 
