@@ -138,7 +138,7 @@ public class AutocompleteProvider {
 	ArrayList<String> parsePassage(String passage)
 	{
 		ArrayList<String> matches = new ArrayList<String>();
-		Matcher matcher = Pattern.compile("[a-z]+").matcher(passage);
+		Matcher matcher = Pattern.compile("[a-z-]+").matcher(passage);
 		while (matcher.find()) 
 		{
 			matches.add(matcher.group());
