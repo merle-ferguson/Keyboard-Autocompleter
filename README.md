@@ -8,7 +8,7 @@ I used Eclipse, but you could easily use the command line by following the instr
 
 Open your command line and navigate to my project's src directory, which contains the java files and manifest file.
 
-If you are running windows, type PATH=C:\Program Files\Java\[jdk version]\bin.
+If you are running windows, type PATH=C:\Program Files\Java\ [jdk version] \bin.
 Fill in [jdk version] with your Java Development Kit version.
 
 All operating systems run the following:
