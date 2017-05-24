@@ -1,4 +1,4 @@
-#**Welcome to the Keyboard Autocompleter**#
+# **Welcome to the Keyboard Autocompleter**
 
 This application is used to capture keyboard input and offer suggestions on how a word is likely to be completed.
 
