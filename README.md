@@ -11,9 +11,11 @@ Make sure that you have an updated version of JDK (Java Development Kit) on your
 Open your command line/terminal and navigate to my project's src directory, which contains the java files and manifest file.
 
 If you are running windows, type PATH=C:\Program Files\Java\[jdk version]\bin
+
 Fill in [jdk version] with your Java Development Kit version.
 
 Type javac *.java
+
 Type jar cvfm Keyboard_Autocompleter.jar manifest.txt *.class
 
 ## To run it:
