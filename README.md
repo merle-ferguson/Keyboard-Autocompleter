@@ -4,14 +4,11 @@ This application is used to capture keyboard input and offer suggestions on how 
 
 ## To build it:
 
-I used Eclipse, but you could easily use the command line or terminal by following the instructions below.
+I used Eclipse, but you could easily use the command line or terminal by following the instructions below. Make sure that you have an updated version of JDK (Java Development Kit) on your machine.
 
-Make sure that you have an updated version of JDK (Java Development Kit) on your machine.
+Open your command line and navigate to my project's src directory, which contains the java files and manifest file.
 
-Open your command line/terminal and navigate to my project's src directory, which contains the java files and manifest file.
-
-If you are running windows, type PATH=C:\Program Files\Java\[jdk version]\bin
-
+If you are running windows, type PATH=C:\Program Files\Java\[jdk version]\bin.
 Fill in [jdk version] with your Java Development Kit version.
 
 Type javac *.java
