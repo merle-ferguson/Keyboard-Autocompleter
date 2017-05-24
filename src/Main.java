@@ -12,7 +12,7 @@ public class Main
 		
 		System.out.println("\nWelcome to the wonderful and amazing word autocompleter!\n");
 		System.out.println("-------------------------------------------------------------------");
-		System.out.println("-T [comma delimited list of strings] to train.");
+		System.out.println("-T [training input] to train.");
 		System.out.println("! to quit.");
 		System.out.println("!! to quit by dividing by zero.");
 		System.out.println("Other entries are word fragments which I will attempt to complete.");
